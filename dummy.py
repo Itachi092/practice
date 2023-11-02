@@ -5,4 +5,6 @@ arr2 = arr.view()
 arr[1] = 8
 
 print(arr)
-    print(arr2)
+print(arr2)
+
+print("hello")
